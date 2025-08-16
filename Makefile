@@ -9,5 +9,5 @@ clean:
 
 commit:
 	git add .
-	git commit -m "Update documentation"
+	git commit -m "Update documentation" || true
 	git push 
