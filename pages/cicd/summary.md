@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CICD
-permalink: /cicd/cicd
+title: CI/CD
+permalink: /cicd/main
 ---
 
 # CI/CD
