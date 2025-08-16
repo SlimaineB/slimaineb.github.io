@@ -104,5 +104,3 @@ export HELM_NO_UPDATE_CHECK=true       # Disable automatic repo update check
 - Automate **rollback procedures** in pipelines  
 
 ---
-
-This Helm cheat sheet now complements your **Kubernative** section along with Docker and Kubernetes. It’s CI/CD ready, non-interactive, and focused on practical commands and best practices.
