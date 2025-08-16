@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Monitoring
-permalink: /monitoring/summary
+nav_order: 2
+parent: Home
+permalink: /monitoring/monitoring
 ---
 # Monitoring
 
