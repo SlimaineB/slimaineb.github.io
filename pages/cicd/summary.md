@@ -1,6 +1,7 @@
 ---
 layout: page
-title: CI/CD
+title: CiCd
+nav_order: 2
 permalink: /cicd/summary
 ---
 

@@ -6,3 +6,8 @@ serve:
 
 clean:
 	bundle exec jekyll clean
+
+commit:
+	git add .
+	git commit -m "Update documentation"
+	git push 

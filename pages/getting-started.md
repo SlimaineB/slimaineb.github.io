@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Monitoring
+title: Getting Started
 permalink: /getting-started
 ---
 
