@@ -3,7 +3,7 @@ layout: page
 title: CiCd
 nav_order: 2
 parent: Home
-permalink: /cicd/cicd
+permalink: /cicd
 ---
 
 # CI/CD
