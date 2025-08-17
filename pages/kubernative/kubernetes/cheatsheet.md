@@ -88,6 +88,30 @@ kubectl get events --sort-by='.metadata.creationTimestamp'
 
 ---
 
+## 🔍 Create Template
+
+Use kubectl create ... --dry-run=client -o yaml to quickly generate a template 
+
+Generate deployment.yaml and edit it directly :
+
+{% highlight bash %}
+kubectl create deployment myapp \
+  --image=nginx \
+  --replicas=3 \
+  --port=80 \
+  --dry-run=client -o yaml > deployment.yaml
+{% endhighlight %}
+
+Deployment + Service in all.yml :
+
+{% highlight bash %}
+kubectl create deployment myapp --image=nginx --dry-run=client -o yaml > all.yaml
+kubectl expose deployment myapp --port=80 --target-port=80 --type=ClusterIP --dry-run=client -o yaml >> all.yaml
+{% endhighlight %}
+
+
+---
+
 ## ⚙️ CI/CD Environment Variables
 
 Useful for automated pipelines (non-interactive, plain output):
