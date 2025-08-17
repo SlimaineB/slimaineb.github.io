@@ -8,4 +8,4 @@ nav_order: 1
 
 # CI/CD - GitlabCI
 
-Documentation sur l'intégration et le déploiement continus.
+GitlabCi is the pipeline part of Gitlab where you can run steps of a common CI/CD chain.
