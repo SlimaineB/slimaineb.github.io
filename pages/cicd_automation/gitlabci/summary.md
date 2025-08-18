@@ -1,8 +1,8 @@
 ---
 layout: page
 title: GitlabCi
-parent: CiCd
-permalink: /cicd/gitlabci/summary
+parent: 🚀 CI/CD & Automation
+permalink: /cicd_automation/gitlabci/summary
 nav_order: 1
 ---
 

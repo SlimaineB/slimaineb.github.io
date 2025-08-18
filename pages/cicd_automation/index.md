@@ -1,11 +1,11 @@
 ---
 layout: page
-title: CiCd
+title: 🚀 CI/CD & Automation
 nav_order: 2
 parent: Home
-permalink: /cicd
+permalink: /cicd_automation
 ---
 
-# CI/CD
+# 🚀 CI/CD & Automation
 
 Documentation sur l'intégration et le déploiement continus.
