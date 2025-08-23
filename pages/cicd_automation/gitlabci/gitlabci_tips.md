@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitlabCi Tips
-parent: CiCd
+parent: GitlabCi
 permalink: /cicd/gitlabci/gitlabci_tips
 nav_order: 3
 ---
