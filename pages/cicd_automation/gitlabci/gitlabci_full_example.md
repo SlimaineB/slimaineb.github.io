@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitlabCi Full Sample
-parent: CiCd
+parent: GitlabCi
 permalink: /cicd/gitlabci/gitlabci_full_example
 nav_order: 1
 ---
