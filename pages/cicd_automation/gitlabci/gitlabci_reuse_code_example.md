@@ -1,8 +1,8 @@
 ---
 layout: page
-title: GitlabCi - Test Locally
+title: GitlabCi Reuse Code Example
 parent: GitlabCi
-permalink: /cicd_automation/gitlabci/gitlabci_local_testing
+permalink: /cicd_automation/gitlabci/gitlabci_reuse_code_example
 nav_order: 4
 ---
 

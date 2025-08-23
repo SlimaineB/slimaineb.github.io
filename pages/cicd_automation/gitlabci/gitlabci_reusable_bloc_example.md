@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GitlabCi Project Sample 1
+title: GitlabCi Reusable Bloc Example
 parent: GitlabCi
 permalink: /cicd_automation/gitlabci/gitlabci_reusable_bloc_example
 nav_order: 6
