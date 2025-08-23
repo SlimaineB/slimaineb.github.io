@@ -1,8 +1,8 @@
 ---
 layout: page
-title: GitlabCi - Reuse Code Example
+title: GitlabCi - Reusable Template
 parent: GitlabCi
-permalink: /cicd_automation/gitlabci/gitlabci_reuse_code_example
+permalink: /cicd_automation/gitlabci/gitlabci_reusable_template
 nav_order: 4
 ---
 

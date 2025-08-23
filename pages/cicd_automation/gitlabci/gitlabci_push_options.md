@@ -3,7 +3,7 @@ layout: page
 title: GitlabCi - Git Push Options
 parent: GitlabCi
 permalink: /cicd_automation/gitlabci/gitlabci_push_options
-nav_order: 3
+nav_order: 7
 ---
 
 Refer to for more details [Gitlab Push Options](https://docs.gitlab.com/topics/git/commit/)

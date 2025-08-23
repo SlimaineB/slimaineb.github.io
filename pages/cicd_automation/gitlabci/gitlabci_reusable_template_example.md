@@ -1,8 +1,8 @@
 ---
 layout: page
-title: GitlabCi - Reusable Bloc Example
+title: GitlabCi - Reusable Template Example
 parent: GitlabCi
-permalink: /cicd_automation/gitlabci/gitlabci_reusable_bloc_example
+permalink: /cicd_automation/gitlabci/gitlabci_reusable_template_example
 nav_order: 6
 ---
 
@@ -44,7 +44,10 @@ include:
   - local: 'ci-templates/deploy.yml'
   # Remote templates from another repo (must be public or have token access)
   - remote: 'https://gitlab.com/other-repo/ci-templates/-/raw/main/reusable-jobs.yml'
-
+  # Another repo same project
+  - project: 'my-group/my-project'
+    ref: main
+    file: 'templates/.gitlab-ci-template.yml'
 # --------------------------
 # Base Job Templates
 # --------------------------

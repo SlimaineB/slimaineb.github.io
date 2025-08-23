@@ -1,8 +1,8 @@
 ---
 layout: page
-title: GitlabCi - Anchor Sample
+title: GitlabCi - Reusable Anchor Sample
 parent: GitlabCi
-permalink: /cicd_automation/gitlabci/gitlabci_anchor_example
+permalink: /cicd_automation/gitlabci/gitlabci_reusable_anchor_example
 nav_order: 6
 ---
 
