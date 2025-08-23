@@ -2,7 +2,7 @@
 layout: page
 title: GitlabCi Tips
 parent: GitlabCi
-permalink: /cicd/gitlabci/gitlabci_tips
+permalink: /cicd_automation/gitlabci/gitlabci_tips
 nav_order: 3
 ---
 

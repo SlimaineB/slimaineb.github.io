@@ -2,7 +2,7 @@
 layout: page
 title: GitlabCi Full Sample
 parent: GitlabCi
-permalink: /cicd/gitlabci/gitlabci_full_example
+permalink: /cicd_automation/gitlabci/gitlabci_full_example
 nav_order: 1
 ---
 

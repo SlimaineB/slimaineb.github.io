@@ -2,8 +2,8 @@
 layout: page
 title: GitlabCi - Test Locally
 parent: GitlabCi
-permalink: /cicd/gitlabci/gitlabci_local_testing
-nav_order: 1
+permalink: /cicd_automation/gitlabci/gitlabci_local_testing
+nav_order: 2
 ---
 
 # 🚀 Tutorial: Using `gitlab-ci-local` to test your pipeline locally
