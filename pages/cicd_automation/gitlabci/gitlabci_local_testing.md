@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitlabCi - Test Locally
-parent: CiCd
+parent: GitlabCi
 permalink: /cicd/gitlabci/gitlabci_local_testing
 nav_order: 1
 ---
