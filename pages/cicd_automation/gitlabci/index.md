@@ -9,3 +9,5 @@ nav_order: 1
 # CI/CD - GitlabCI
 
 GitlabCi is the pipeline part of Gitlab where you can run steps of a common CI/CD chain.
+
+More informations on : [CI/CD YAML syntax reference](https://docs.gitlab.com/ci/yaml/)

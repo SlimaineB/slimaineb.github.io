@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GitlabCi Matrix Sample
+title: GitlabCi - Matrix Sample
 parent: GitlabCi
 permalink: /cicd_automation/gitlabci/gitlabci_matrix_example
 nav_order: 6

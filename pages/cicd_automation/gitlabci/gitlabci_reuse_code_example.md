@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GitlabCi Reuse Code Example
+title: GitlabCi - Reuse Code Example
 parent: GitlabCi
 permalink: /cicd_automation/gitlabci/gitlabci_reuse_code_example
 nav_order: 4

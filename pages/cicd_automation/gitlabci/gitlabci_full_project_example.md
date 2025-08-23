@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GitlabCi Full Project Example
+title: GitlabCi - Full Project Example
 parent: GitlabCi
 permalink: /cicd_automation/gitlabci/gitlabci_full_project_example
 nav_order: 1
