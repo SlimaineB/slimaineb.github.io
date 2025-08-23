@@ -1,8 +1,8 @@
 ---
 layout: page
-title: GitlabCi Full Sample
+title: GitlabCi Project Sample
 parent: GitlabCi
-permalink: /cicd_automation/gitlabci/gitlabci_full_example
+permalink: /cicd_automation/gitlabci/gitlabci_project_example
 nav_order: 1
 ---
 
