@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terraform Cheat Sheet
-nav_order: 2
+nav_order: 4
 parent: Terraform
 permalink: /iac/terraform/cheatsheet
 ---
