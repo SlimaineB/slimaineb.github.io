@@ -23,6 +23,10 @@ A curated list of everyday tools that make a developer’s life easier.
 - **Taskfile** – YAML-based task runner, easier to read than Make.
 - **Cookiecutter** – Generate project boilerplates from templates.
 - **direnv** – Load/unload environment variables automatically per project.
+- **Asdf** – Os versions package manager
+- **Sdk** – Java versions tools manager (Easy switch between JDK, MAVEN ... version )
+- **Nvm** – Node versions tools manager (Easy switch between Node, NPM ... version )
+- **Pyenv** – Python versions tools manager (Easy switch between Node, NPM ... version )
 
 ## File & Data Handling
 - **jq** – Command-line JSON processor.
@@ -40,6 +44,13 @@ A curated list of everyday tools that make a developer’s life easier.
 - **htop** – Interactive process viewer.
 - **glances** – All-in-one system monitoring tool.
 - **dstat** – Real-time system resource statistics.
+
+
+## Python Package Manager
+- **pip** – the standard installer for Python packages inside your current environment.
+- **pipx** –  Installs and runs Python CLI tools globally, each in its own isolated virtual environment.
+- **pdm** – PDM is a modern Python package and dependency manager supporting the latest PEP standards. But it is more than a package manager. It boosts your development workflow in various aspects. [Doc](https://pdm-project.org/en/latest/)
+- **uv** – An extremely fast Python package and project manager, written in Rust. [Doc](https://docs.astral.sh/uv/)
 
 ---
 ✨ These tools are lightweight, easy to install, and help speed up daily workflows.
