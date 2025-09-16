@@ -278,6 +278,6 @@ variables:
     - if: '$CI_COMMIT_TAG =~ /^v\d+\.\d+\.\d+$/'
       when: manual
       allow_failure: false
+```
 
----
 
