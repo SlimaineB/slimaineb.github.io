@@ -15,8 +15,6 @@ nav_order: 1
 ## 1) `.gitlab-ci.yml` — Lint, Build, Scan Image, Push ECR
 
 ```yaml
-
-```
 include:
   - local: ".gitlabci/common/*.yml"
 
